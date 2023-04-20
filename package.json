@@ -1,0 +1,24 @@
+{
+  "name": "data-visualization-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@bpmn-io/properties-panel": "1.7.0",
+    "bpmn-js": "11.5.0",
+    "bpmn-js-properties-panel": "1.20.3",
+    "camunda-bpmn-moddle": "7.0.1",
+    "htm": "3.1.1",
+    "preact": "10.13.2",
+    "zeebe-bpmn-moddle": "0.18.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
